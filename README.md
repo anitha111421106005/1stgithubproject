@@ -1,3 +1,3 @@
 # 1stgithubproject
-This is my first github
+This is my first github project
 Anitha Rameshbabu 
